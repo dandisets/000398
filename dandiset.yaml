@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000398
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.3/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -43,6 +44,21 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: 5U19NS123717
+  contactPoint: []
+  includeInCitation: false
+  roleName: []
+  schemaKey: Organization
+- awardNumber: 5U19NS123717
+  contactPoint: []
+  includeInCitation: false
+  roleName: []
+  schemaKey: Organization
+- awardNumber: R01NS123655-01
+  contactPoint: []
+  includeInCitation: false
+  roleName: []
+  schemaKey: Organization
 dateCreated: '2022-12-02T19:20:44.950087+00:00'
 description: The Utah array powers cutting-edge projects for restoration of neurological
   function, such as BrainGate, but the underlying electrode technology has itself
@@ -61,16 +77,22 @@ description: The Utah array powers cutting-edge projects for restoration of neur
   and sensitivity to broadband brain activity will accelerate the progress in fundamental
   neurophysiological investigations and establishes a new milestone for penetrating
   and large area coverage microelectrode arrays for brain–machine interfaces.
+ethicsApproval: []
 id: DANDI:000398/draft
 identifier: DANDI:000398
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000398/versions/draft/assets/
 name: Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
   and Large Area Coverage BrainMachine Interfaces
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000398/draft
 version: draft
+wasGeneratedBy: []
