@@ -33,32 +33,113 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - ElectricalSeries
-citation: Rinehart, Duane (2022) Scalable Thousand Channel Penetrating Microneedle
-  Arrays on Flex for Multimodal and Large Area Coverage BrainMachine Interfaces (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000398/draft
+citation: Sang Heon Lee; Martin Thunemann; Keundong Lee; Daniel R. Cleary; Karen J.
+  Tonsfeldt; Hongseok Oh; Farid Azzazy; Youngbin Tchoe; Andrew M. Bourhis; Lorraine
+  Hossain; Yun Goo Ro; Atsunori Tanaka; Kıvılcım Kılıç; Anna Devor; Shadi A. Dayeh
+  (2022) Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
+  and Large Area Coverage BrainMachine Interfaces (Version draft) [Data set]. DANDI
+  archive. https://dandiarchive.org/dandiset/000398/draft
 contributor:
 - affiliation: []
-  email: duane.rinehart@gmail.com
+  email: sangheonlee88@gmail.com
   includeInCitation: true
+  name: Sang Heon Lee
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  email: martinth@bu.edu
+  includeInCitation: true
+  name: Martin Thunemann
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Keundong Lee
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Daniel R. Cleary
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Karen J. Tonsfeldt
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Hongseok Oh
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Farid Azzazy
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Youngbin Tchoe
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Andrew M. Bourhis
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Lorraine Hossain
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Yun Goo Ro
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Atsunori Tanaka
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Kıvılcım Kılıç
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Anna Devor
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  email: sdayeh@ece.ucsd.edu
+  includeInCitation: true
+  name: Shadi A. Dayeh
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  email: duane.rinehart@gmail.com
+  includeInCitation: false
   name: Rinehart, Duane
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-- awardNumber: 5U19NS123717
-  contactPoint: []
-  includeInCitation: false
-  roleName: []
-  schemaKey: Organization
-- awardNumber: 5U19NS123717
-  contactPoint: []
-  includeInCitation: false
-  roleName: []
-  schemaKey: Organization
-- awardNumber: R01NS123655-01
-  contactPoint: []
-  includeInCitation: false
-  roleName: []
-  schemaKey: Organization
 dateCreated: '2022-12-02T19:20:44.950087+00:00'
 description: The Utah array powers cutting-edge projects for restoration of neurological
   function, such as BrainGate, but the underlying electrode technology has itself
