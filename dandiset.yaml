@@ -176,6 +176,24 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://ucsd.edu/
+- awardNumber: '1R01DA050159-01 '
+  contactPoint: []
+  identifier: https://ror.org/05qwgg493
+  includeInCitation: false
+  name: Boston University
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.bu.edu/
+- awardNumber: 'MH111359-05 '
+  contactPoint: []
+  identifier: https://ror.org/05qwgg493
+  includeInCitation: false
+  name: Boston University
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.bu.edu/
 dateCreated: '2022-12-02T19:20:44.950087+00:00'
 description: The Utah array powers cutting-edge projects for restoration of neurological
   function, such as BrainGate, but the underlying electrode technology has itself
