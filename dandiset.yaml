@@ -140,6 +140,42 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: U19 NS123717
+  contactPoint: []
+  identifier: https://ror.org/05qwgg493
+  includeInCitation: false
+  name: Boston University
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.bu.edu/
+- awardNumber: DP2-EB029757
+  contactPoint: []
+  identifier: https://ror.org/0168r3w48
+  includeInCitation: false
+  name: University of California, San Diego
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://ucsd.edu/
+- awardNumber: R01NS123655-01
+  contactPoint: []
+  identifier: https://ror.org/0168r3w48
+  includeInCitation: false
+  name: University of California, San Diego
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://ucsd.edu/
+- awardNumber: UG3NS123723-01
+  contactPoint: []
+  identifier: https://ror.org/0168r3w48
+  includeInCitation: false
+  name: University of California, San Diego
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://ucsd.edu/
 dateCreated: '2022-12-02T19:20:44.950087+00:00'
 description: The Utah array powers cutting-edge projects for restoration of neurological
   function, such as BrainGate, but the underlying electrode technology has itself
