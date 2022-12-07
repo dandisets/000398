@@ -33,8 +33,8 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - ElectricalSeries
-citation: Sang Heon Lee; Martin Thunemann; Keundong Lee; Daniel R. Cleary; Karen J.
-  Tonsfeldt; Hongseok Oh; Farid Azzazy; Youngbin Tchoe; Andrew M. Bourhis; Lorraine
+citation: Lee, Sang Heon; Thunemann, Martin; Lee, Keundong; Daniel R. Cleary; Karen
+  J. Tonsfeldt; Hongseok Oh; Farid Azzazy; Youngbin Tchoe; Andrew M. Bourhis; Lorraine
   Hossain; Yun Goo Ro; Atsunori Tanaka; Kıvılcım Kılıç; Anna Devor; Shadi A. Dayeh
   (2022) Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
   and Large Area Coverage BrainMachine Interfaces (Version draft) [Data set]. DANDI
@@ -43,20 +43,20 @@ contributor:
 - affiliation: []
   email: sangheonlee88@gmail.com
   includeInCitation: true
-  name: Sang Heon Lee
+  name: Lee, Sang Heon
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   email: martinth@bu.edu
   includeInCitation: true
-  name: Martin Thunemann
+  name: Thunemann, Martin
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Keundong Lee
+  name: Lee, Keundong
   roleName:
   - dcite:Author
   schemaKey: Person
