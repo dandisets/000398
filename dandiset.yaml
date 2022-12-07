@@ -33,10 +33,10 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - ElectricalSeries
-citation: Lee, Sang Heon; Thunemann, Martin; Lee, Keundong; Daniel R. Cleary; Karen
-  J. Tonsfeldt; Hongseok Oh; Farid Azzazy; Youngbin Tchoe; Andrew M. Bourhis; Lorraine
-  Hossain; Yun Goo Ro; Atsunori Tanaka; Kıvılcım Kılıç; Anna Devor; Shadi A. Dayeh
-  (2022) Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
+citation: Lee, Sang Heon; Thunemann, Martin; Lee, Keundong; Cleary, Daniel R.; Tonsfeldt,
+  Karen J.; Oh, Hongseok; Azzazy, Farid; Tchoe, Youngbin; Bourhis, Andrew M.; Hossain,
+  Lorraine; Ro, Yun Goo; Tanaka, Atsunori; Kılıç, Kıvılcım ; Devor, Anna; Dayeh, Shadi
+  A. (2022) Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
   and Large Area Coverage BrainMachine Interfaces (Version draft) [Data set]. DANDI
   archive. https://dandiarchive.org/dandiset/000398/draft
 contributor:
@@ -62,74 +62,74 @@ contributor:
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Daniel R. Cleary
+  name: Cleary, Daniel R.
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Karen J. Tonsfeldt
+  name: Tonsfeldt, Karen J.
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Hongseok Oh
+  name: Oh, Hongseok
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Farid Azzazy
+  name: Azzazy, Farid
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Youngbin Tchoe
+  name: Tchoe, Youngbin
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Andrew M. Bourhis
+  name: Bourhis, Andrew M.
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Lorraine Hossain
+  name: Hossain, Lorraine
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Yun Goo Ro
+  name: Ro, Yun Goo
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Atsunori Tanaka
+  name: Tanaka, Atsunori
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Kıvılcım Kılıç
+  name: 'Kılıç, Kıvılcım '
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
-  name: Anna Devor
+  name: Devor, Anna
   roleName:
   - dcite:Author
   schemaKey: Person
 - affiliation: []
   email: sdayeh@ece.ucsd.edu
   includeInCitation: true
-  name: Shadi A. Dayeh
+  name: Dayeh, Shadi A.
   roleName:
   - dcite:Author
   schemaKey: Person
