@@ -37,8 +37,8 @@ citation: Lee, Sang Heon; Thunemann, Martin; Lee, Keundong; Cleary, Daniel R.; T
   Karen J.; Oh, Hongseok; Azzazy, Farid; Tchoe, Youngbin; Bourhis, Andrew M.; Hossain,
   Lorraine; Ro, Yun Goo; Tanaka, Atsunori; Kılıç, Kıvılcım ; Devor, Anna; Dayeh, Shadi
   A. (2022) Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
-  and Large Area Coverage BrainMachine Interfaces (Version draft) [Data set]. DANDI
-  archive. https://dandiarchive.org/dandiset/000398/draft
+  and Large Area Coverage BrainMachine Interfaces (Version 0.221208.1803) [Data set].
+  DANDI archive. https://doi.org/10.48324/dandi.000398/0.221208.1803
 contributor:
 - affiliation: []
   email: sangheonlee88@gmail.com
@@ -195,6 +195,7 @@ contributor:
   schemaKey: Organization
   url: http://www.bu.edu/
 dateCreated: '2022-12-02T19:20:44.950087+00:00'
+datePublished: '2022-12-08T18:03:13.941433+00:00'
 description: The Utah array powers cutting-edge projects for restoration of neurological
   function, such as BrainGate, but the underlying electrode technology has itself
   advanced little in the last three decades. Here, advanced dual-side lithographic
@@ -212,22 +213,35 @@ description: The Utah array powers cutting-edge projects for restoration of neur
   and sensitivity to broadband brain activity will accelerate the progress in fundamental
   neurophysiological investigations and establishes a new milestone for penetrating
   and large area coverage microelectrode arrays for brain–machine interfaces.
+doi: 10.48324/dandi.000398/0.221208.1803
 ethicsApproval: []
-id: DANDI:000398/draft
+id: DANDI:000398/0.221208.1803
 identifier: DANDI:000398
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000398/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000398/0.221208.1803/assets.yaml
 name: Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal
   and Large Area Coverage BrainMachine Interfaces
 protocol: []
+publishedBy:
+  endDate: '2022-12-08T18:03:13.941433+00:00'
+  id: urn:uuid:9cc9d210-615d-4b60-8b3b-d2013da4ab06
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-12-08T18:03:13.941433+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:a9b70982-ef44-4ece-b636-8e9cd464471a
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000398/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000398/0.221208.1803
+version: 0.221208.1803
 wasGeneratedBy: []
